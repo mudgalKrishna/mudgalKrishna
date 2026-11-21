@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mascots · Krishna Mudgal</title>
+<style>
+  body{margin:0;background:#0d1117;color:#f4dccb;font:15px/1.5 Consolas,ui-monospace,monospace}
+  main{max-width:900px;margin:0 auto;padding:32px 16px 64px}
+  h1{font-size:20px;margin:0 0 4px}
+  p{color:#a99fd6;margin:0 0 28px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,400px),1fr));gap:20px}
+  .card{background:#161226;border:1px solid #2e2648;border-radius:12px;padding:12px 12px 8px;min-width:0}
+  .card.wide{grid-column:1/-1}
+  object{display:block;width:100%;height:auto}
+  .card h2{font-size:13px;font-weight:700;margin:6px 4px 0;color:#f4dccb}
+  .card span{color:#a99fd6;font-weight:400}
+  a{color:#c9b8ff}
+</style>
+</head>
+<body>
+<main>
+  <h1>Hover a creature to use its move</h1>
+  <p>Original mascots for the projects on <a href="https://github.com/mudgalKrishna">github.com/mudgalKrishna</a>. On a phone, tap one.</p>
+  <div class="grid">
+    <div class="card wide" id="mirra"><object type="image/svg+xml" data="assets/mascot-paper.svg" aria-label="Mirra"></object><h2>MIRRA · Mirror Beam <span>· symmetry paper</span></h2></div>
+    <div class="card" id="humbo"><object type="image/svg+xml" data="assets/mascot-humble.svg" aria-label="Humbo"></object><h2>HUMBO · Aqua Jet <span>· HUMBLE</span></h2></div>
+    <div class="card" id="lure"><object type="image/svg+xml" data="assets/mascot-riptide.svg" aria-label="Lure"></object><h2>LURE · Ember Burst <span>· Riptide</span></h2></div>
+    <div class="card" id="bimo"><object type="image/svg+xml" data="assets/mascot-vla.svg" aria-label="Bimo"></object><h2>BIMO · Volt Shock <span>· Bi-Manual VLA</span></h2></div>
+  </div>
+</main>
+</body>
+</html>
