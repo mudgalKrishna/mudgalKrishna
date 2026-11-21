@@ -22,7 +22,7 @@ and **making fine-tuned LLMs honest about what they don't know**. I also build a
 
 ## Selected work
 
-<sub>🎮 Each card has its own creature, and each one has a move. <a href="https://mudgalkrishna.github.io/mudgalKrishna/mascots.html">Hover them on the playground</a> to see Mirror Beam, Aqua Jet, Ember Burst and Volt Shock.</sub>
+<sub>🎮 Each card has its own creature, and they take turns using their moves. <a href="https://mudgalkrishna.github.io/mudgalKrishna/mascots.html">Open the playground</a> and hover one to make it attack nonstop.</sub>
 
 ### 📄 Symmetry Alignment Across Depth in Transformer Merging · *NeurIPS 2026 workshop*
 
