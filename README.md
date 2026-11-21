@@ -24,6 +24,7 @@ and **making fine-tuned LLMs honest about what they don't know**. I also build a
 
 ### 📄 Symmetry Alignment Across Depth in Transformer Merging · *NeurIPS 2026 workshop*
 
+<img src="assets/mascot-paper.svg" width="100%" alt="Mirra the symmetry fox merging two orbs"><br>
 <img src="assets/neurips-barrier.svg" alt="Animated plot: aligning a shallow and a deep Transformer removes up to 94.6% of the loss barrier but a residual floor always remains" width="100%">
 
 Two Transformers trained from different seeds can be merged with almost no loss once you undo their parameter symmetries,
@@ -40,6 +41,7 @@ not on how many there are.
 <td width="50%" valign="top">
 
 ### 🛡️ [HUMBLE](https://github.com/mudgalKrishna/HUMBLE)
+<img src="assets/mascot-humble.svg" width="100%" alt="Humbo the shield turtle flipping BLOCK to PASS"><br>
 <a href="https://github.com/mudgalKrishna/HUMBLE"><img src="https://raw.githubusercontent.com/mudgalKrishna/HUMBLE/main/docs/assets/humble_terminal.svg" alt="HUMBLE terminal: the gate blocks the naive fine-tune, repair passes, a certificate is written" width="100%"></a>
 
 Fine-tuning a RAG chatbot quietly teaches it to **invent answers** when its documents don't have one. Standard evals miss
@@ -52,6 +54,7 @@ this, because they only ask answerable questions. HUMBLE is a release gate: it p
 <td width="50%" valign="top">
 
 ### 🌊 [Riptide](https://github.com/sortedcord/riptide) · *HackIIITD 2026 winner*
+<img src="assets/mascot-riptide.svg" width="100%" alt="Lure the ember anglerfish clicking its cursor lure"><br>
 <a href="https://github.com/sortedcord/riptide"><img src="https://raw.githubusercontent.com/sortedcord/riptide/master/docs/assets/hero.svg" alt="A checkout where a warranty line has been slipped in; an agent's cursor finds the pre-ticked box and unticks it" width="100%"></a>
 
 AI agents are starting to shop for us, and dark patterns fool them. Riptide has five honest Indian-style shops. A
@@ -67,6 +70,7 @@ shopping agent actually does in the browser. The result is a rating for each age
 <td width="50%" valign="top">
 
 ### 🤖 [Bi-Manual VLA](https://github.com/mudgalKrishna/Bi-Manual_VLA)
+<img src="assets/mascot-vla.svg" width="100%" alt="Bimo the robot lifting a plate and a mug"><br>
 <a href="https://github.com/mudgalKrishna/Bi-Manual_VLA"><img src="https://raw.githubusercontent.com/mudgalKrishna/Bi-Manual_VLA/main/docs/images/environment_front.png" alt="Two SO-101 robot arms at a table with plates, cutlery, a mug and a drawer in MuJoCo" width="100%"></a>
 
 Two SO-101 arms learn to set a dinner table. Grasping is **purely physical**: no welds and no teleports, and if friction
