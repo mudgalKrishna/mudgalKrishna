@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi, I'm Krishna, an AI researcher from New Delhi.
+<img src="assets/banner.svg" width="100%" alt="Krishna Mudgal, AI researcher. A pixel Claude mascot hops across floating islands at dusk, collecting coins and a paper scroll for each win.">
 
 I study how neural networks keep, merge and lose what they learn: **continual learning**, **model merging and symmetry**,
 and **making fine-tuned LLMs honest about what they don't know**. I also build agents and robot policies.
