@@ -17,12 +17,10 @@ and **making fine-tuned LLMs honest about what they don't know**. I also build a
 
 <br>
 
-| | |
-|---|---|
-| 📄 | **Paper accepted at NeurIPS 2026 (workshop):** *Symmetry Alignment Across Depth in Transformer Merging* |
-| 🏆 | **Winner, HackIIITD 2026** with **Riptide**, a test bench for AI shopping agents |
-| 🛡️ | **HUMBLE**, Lexsi AI Safety & Alignment Hackathon (Track 1): catches and repairs fine-tuned RAG models that make up answers |
-| 🔬 | Research interests: continual learning · linear mode connectivity · LLM reliability · VLAs · AI for science |
+- 📄 **Paper accepted at NeurIPS 2026 (workshop):** *Symmetry Alignment Across Depth in Transformer Merging*
+- 🏆 **Winner, HackIIITD 2026** with **Riptide**, a test bench for AI shopping agents
+- 🛡️ **HUMBLE**, Lexsi AI Safety & Alignment Hackathon (Track 1): catches and repairs fine-tuned RAG models that make up answers
+- 🔬 Research interests: continual learning · linear mode connectivity · LLM reliability · VLAs · AI for science
 
 <br>
 
