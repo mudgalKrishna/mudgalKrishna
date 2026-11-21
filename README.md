@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://mudgalkrishna.github.io/krishna-anime/">
-  <img src="assets/animation.webp" alt="Anime short: Krishna runs from a shadow, falls off a cliff into an AI dreamworld, wakes up in his room and reads a paper titled KRISHNA MUDGAL, AI RESEARCHER" width="100%">
-</a>
-
 ### Hi, I'm Krishna, an AI researcher from New Delhi.
 
 I study how neural networks keep, merge and lose what they learn: **continual learning**, **model merging and symmetry**,
@@ -97,7 +93,5 @@ runs on Intel Core Ultra (CPU/GPU/NPU via OpenVINO).
 <div align="center">
 
 **Stack:** Python · PyTorch · Hugging Face (Transformers, PEFT, TRL) · LeRobot · MuJoCo · TypeScript
-
-<sub>The animation at the top was made from my own storyboard frames. <a href="https://github.com/mudgalKrishna/krishna-anime">Source</a>.</sub>
 
 </div>
